@@ -1,0 +1,404 @@
+{
+  "users": [
+    {
+      "name": "User 1",
+      "bmi_range": {
+        "minimum": 18.5,
+        "maximum": 24.9
+      },
+      "diet_plan": [
+        {
+          "meal": "Breakfast",
+          "items": [
+            {
+              "name": "Oatmeal",
+              "calories": 150
+            },
+            {
+              "name": "Banana",
+              "calories": 100
+            },
+            {
+              "name": "Scrambled Eggs",
+              "calories": 150
+            },
+            {
+              "name": "Whole Wheat Toast",
+              "calories": 80
+            }
+          ]
+        },
+        {
+          "meal": "Lunch",
+          "items": [
+            {
+              "name": "Grilled Chicken Breast",
+              "calories": 250
+            },
+            {
+              "name": "Mixed Salad",
+              "calories": 100
+            },
+            {
+              "name": "Brown Rice",
+              "calories": 150
+            },
+            {
+              "name": "Steamed Broccoli",
+              "calories": 50
+            },
+            {
+              "name": "Greek Yogurt",
+              "calories": 120
+            }
+          ]
+        },
+        {
+          "meal": "Dinner",
+          "items": [
+            {
+              "name": "Salmon",
+              "calories": 300
+            },
+            {
+              "name": "Steamed Vegetables",
+              "calories": 100
+            },
+            {
+              "name": "Quinoa",
+              "calories": 150
+            },
+            {
+              "name": "Grilled Shrimp",
+              "calories": 200
+            },
+            {
+              "name": "Mixed Berries",
+              "calories": 80
+            }
+          ]
+        },
+        {
+          "meal": "Snack",
+          "items": [
+            {
+              "name": "Almonds",
+              "calories": 100
+            },
+            {
+              "name": "Carrot Sticks",
+              "calories": 50
+            },
+            {
+              "name": "Yogurt",
+              "calories": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "User 2",
+      "bmi_range": {
+        "minimum": 25,
+        "maximum": 29.9
+      },
+      "diet_plan": [
+        {
+          "meal": "Breakfast",
+          "items": [
+            {
+              "name": "Eggs",
+              "calories": 200
+            },
+            {
+              "name": "Whole Wheat Toast",
+              "calories": 100
+            },
+            {
+              "name": "Avocado",
+              "calories": 150
+            },
+            {
+              "name": "Turkey Bacon",
+              "calories": 100
+            }
+          ]
+        },
+        {
+          "meal": "Lunch",
+          "items": [
+            {
+              "name": "Turkey Sandwich",
+              "calories": 300
+            },
+            {
+              "name": "Vegetable Soup",
+              "calories": 150
+            },
+            {
+              "name": "Mixed Greens",
+              "calories": 80
+            },
+            {
+              "name": "Fruit Salad",
+              "calories": 100
+            }
+          ]
+        },
+        {
+          "meal": "Dinner",
+          "items": [
+            {
+              "name": "Grilled Steak",
+              "calories": 400
+            },
+            {
+              "name": "Baked Potatoes",
+              "calories": 200
+            },
+            {
+              "name": "Broccoli",
+              "calories": 100
+            },
+            {
+              "name": "Caesar Salad",
+              "calories": 150
+            }
+          ]
+        },
+        {
+          "meal": "Snack",
+          "items": [
+            {
+              "name": "Greek Yogurt",
+              "calories": 120
+            },
+            {
+              "name": "Apple",
+              "calories": 80
+            },
+            {
+              "name": "Mixed Nuts",
+              "calories": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "User 3",
+      "bmi_range": {
+        "minimum": 30,
+        "maximum": 34.9
+      },
+      "diet_plan": [
+        {
+          "meal": "Breakfast",
+          "items": [
+            {
+              "name": "Greek Yogurt",
+              "calories": 150
+            },
+            {
+              "name": "Mixed Berries",
+              "calories": 80
+            },
+            {
+              "name": "Almonds",
+              "calories": 100
+            },
+            {
+              "name": "Whole Wheat Bagel",
+              "calories": 200
+            },
+            {
+              "name": "Peanut Butter",
+              "calories": 120
+            }
+          ]
+        },
+        {
+          "meal": "Lunch",
+          "items": [
+            {
+              "name": "Quinoa Salad",
+              "calories": 300
+            },
+            {
+              "name": "Grilled Vegetables",
+              "calories": 150
+            },
+            {
+              "name": "Hummus",
+              "calories": 100
+            },
+            {
+              "name": "Pita Bread",
+              "calories": 180
+            },
+            {
+              "name": "Cottage Cheese",
+              "calories": 120
+            }
+          ]
+        },
+        {
+          "meal": "Dinner",
+          "items": [
+            {
+              "name": "Baked Chicken Breast",
+              "calories": 350
+            },
+            {
+              "name": "Sweet Potatoes",
+              "calories": 200
+            },
+            {
+              "name": "Steamed Broccoli",
+              "calories": 100
+            },
+            {
+              "name": "Quinoa",
+              "calories": 150
+            },
+            {
+              "name": "Mixed Greens",
+              "calories": 80
+            }
+          ]
+        },
+        {
+          "meal": "Snack",
+          "items": [
+            {
+              "name": "Yogurt",
+              "calories": 120
+            },
+            {
+              "name": "Grapes",
+              "calories": 50
+            },
+            {
+              "name": "Trail Mix",
+              "calories": 200
+            },
+            {
+              "name": "Granola Bar",
+              "calories": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "User 4",
+      "bmi_range": {
+        "minimum": 35,
+        "maximum": 39.9
+      },
+      "diet_plan": [
+        {
+          "meal": "Breakfast",
+          "items": [
+            {
+              "name": "Whole Grain Cereal",
+              "calories": 200
+            },
+            {
+              "name": "Skim Milk",
+              "calories": 80
+            },
+            {
+              "name": "Blueberries",
+              "calories": 50
+            },
+            {
+              "name": "Protein Shake",
+              "calories": 150
+            },
+            {
+              "name": "Hard-Boiled Eggs",
+              "calories": 120
+            }
+          ]
+        },
+        {
+          "meal": "Lunch",
+          "items": [
+            {
+              "name": "Grilled Salmon",
+              "calories": 350
+            },
+            {
+              "name": "Quinoa",
+              "calories": 200
+            },
+            {
+              "name": "Mixed Greens",
+              "calories": 100
+            },
+            {
+              "name": "Sweet Potato Fries",
+              "calories": 250
+            },
+            {
+              "name": "Coleslaw",
+              "calories": 150
+            }
+          ]
+        },
+        {
+          "meal": "Dinner",
+          "items": [
+            {
+              "name": "Lean Beef Stir-Fry",
+              "calories": 400
+            },
+            {
+              "name": "Brown Rice",
+              "calories": 200
+            },
+            {
+              "name": "Stir-Fried Vegetables",
+              "calories": 150
+            },
+            {
+              "name": "Sliced Oranges",
+              "calories": 80
+            },
+            {
+              "name": "Green Tea",
+              "calories": 0
+            }
+          ]
+        },
+        {
+          "meal": "Snack",
+          "items": [
+            {
+              "name": "Protein Bar",
+              "calories": 200
+            },
+            {
+              "name": "Cottage Cheese",
+              "calories": 120
+            },
+            {
+              "name": "Celery Sticks",
+              "calories": 20
+            },
+            {
+              "name": "Hummus",
+              "calories": 100
+            },
+            {
+              "name": "Mixed Nuts",
+              "calories": 150
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
